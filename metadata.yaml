@@ -1,0 +1,36 @@
+_repo: Bob-the-cabin-boy_71271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-07-25'
+identifiers:
+  gutenberg: '71271'
+language: en
+pgterms:marc905: 20230219041212unknown
+pgterms:marc907: US
+production_note: hekula03, Donald Cummings, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Methodist Episcopal Church Sunday School
+  Union.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bob, the cabin-boy
+url: http://www.gutenberg.org/ebooks/71271
